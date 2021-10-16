@@ -1,0 +1,14 @@
+Follw the steps to run the project:
+
+1. Open cmd in root project folder
+2. Write in cmd and run the command 'npm install'
+3. Next run the command 'npm start '
+4. Then Go to browser and write 'http://localhost:3000/log.html'
+5. That's it, you can either Host a new meeting or Join in existing meeting using meeting code.
+
+If you want to create a website like google meet with webrtc and socket.io then you can join in my new course "Build a Google Meet Clone from Scratch: WebRTC & Socket io" from the link below:
+
+https://www.udemy.com/course/build-a-google-meet-clone-from-scratch/?referralCode=0A5FB8AC8030E00F7066
+
+Feel free to ask question, I will be happy to assist you.
+/.......End........../
